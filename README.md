@@ -43,7 +43,7 @@ Leave empty if you don't want to change the default values and press enter to co
 ## Documentation
 Using pre-builded version MacOS - Linux:
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project && sudo cp storm-project /bin/
+wget --no-check-certificate https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project && chmod +x storm-project && sudo cp storm-project /bin/
 ```
 
 Using pre-builded version Windows:
