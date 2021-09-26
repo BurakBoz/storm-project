@@ -46,11 +46,8 @@ Using pre-builded version MacOS - Linux:
 wget --no-check-certificate https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project && chmod +x storm-project && sudo cp storm-project /bin/
 ```
 
-Using pre-builded version Windows:
-```
-not implemented yet. 
-```
-But for windows you can download [storm-project](https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project) and run with `php storm-project` command on windows systems.
+
+**For windows and all other operating systems you can download [storm-project](https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project) and run with `php storm-project` command.**
 
 ------
 
