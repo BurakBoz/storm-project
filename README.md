@@ -47,7 +47,9 @@ wget --no-check-certificate https://raw.githubusercontent.com/BurakBoz/storm-pro
 ```
 
 
-**For windows and all other operating systems you can download [storm-project](https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project) and run with `php storm-project` command.**
+**For windows and all other operating systems**
+
+**you can download [storm-project](https://raw.githubusercontent.com/BurakBoz/storm-project/master/builds/storm-project) and run with ``php storm-project`` command.**
 
 ------
 
